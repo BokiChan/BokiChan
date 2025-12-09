@@ -38,7 +38,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Other Technologies
 
@@ -47,7 +46,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BokiChan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BokiChan)](https://github.com/anuraghazra/github-readme-stats)" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BokiChan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
@@ -64,7 +63,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BokiChan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=BokiChan&theme=juicyfresh)](https://github.com/BokiChan/github-profile-trophy)" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -74,25 +73,16 @@ I'm a passionate software developer who loves building innovative solutions and 
 ### Software Developer
 **Building innovative solutions** | *Present*
 
+- building contra game with Java
+- Motor Sport webside
+
 ---
 
 ## 🎓 Education & Certifications
 
 ### Continuous Learning
 - Actively learning and staying updated with the latest technologies
-- Study as a solfware engineer at college of Arts, Media and Tecgnology
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BokiChan&repo=BokiChan&theme=tokyonight&hide_border=true)](https://github.com/BokiChan/BokiChan)
-
-</div>
-
-> **Note:** Check out my [repositories](https://github.com/BokiChan?tab=repositories) to see more of my work!
+- Study as a solfware engineer at college of Arts, Media and Tecgnology 
 
 ---
 
@@ -115,10 +105,8 @@ I'm always interested in connecting with fellow developers, potential employers,
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bokichan.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bokichan.dev)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shirotofu)
-  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onigirisamasan@gmail.com)
+
 </div>
 
 ---
@@ -126,20 +114,8 @@ I'm always interested in connecting with fellow developers, potential employers,
 ## 💡 What I Can Do
 
 - **Database Design:** Create efficient and scalable database schemas
-- **DevOps:** Set up CI/CD pipelines and containerized environments
 - **Code Review:** Provide constructive feedback and maintain code quality
 - **Team Collaboration:** Work effectively in agile teams and remote environments
-
----
-
-## 📚 Currently Exploring
-
-- 🔍 Advanced system design patterns
-- ☁️ Cloud-native architectures
-- 🤖 Machine learning and AI integration
-- 🔐 Security best practices
-- 📱 Mobile app development
-- 🌐 Web3 and blockchain technologies
 
 ---
 
