@@ -17,6 +17,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
       # Generates the snake animation from GitHub contribution graph
