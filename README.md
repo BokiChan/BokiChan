@@ -28,6 +28,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javafx](https://img.shields.io/badge/JAVAFX-red?style=for-the-badge)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
