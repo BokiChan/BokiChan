@@ -82,7 +82,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ### Continuous Learning
 - Actively learning and staying updated with the latest technologies
-- Study as a solfware engineer at college of Arts, Media and Tecgnology 
+- Study as a software engineer at college of Arts, Media and Tecgnology 
 
 ---
 
