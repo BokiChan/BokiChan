@@ -27,43 +27,20 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 🛠️ Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Databases
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Other Technologies
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -96,10 +73,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ### Software Developer
 **Building innovative solutions** | *Present*
-- Developing full-stack applications with modern technologies
-- Implementing scalable architectures and best practices
-- Contributing to open-source projects and community initiatives
-- Collaborating with teams to deliver high-quality software solutions
 
 ---
 
@@ -107,9 +80,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ### Continuous Learning
 - Actively learning and staying updated with the latest technologies
-- Participating in coding challenges and hackathons
-- Contributing to open-source projects
-- Building personal projects to expand skill set
+- Study as a solfware engineer at college of Arts, Media and Tecgnology
 
 ---
 
@@ -144,11 +115,9 @@ I'm always interested in connecting with fellow developers, potential employers,
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BokiChan)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BokiChan)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bokichan.dev)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bokichan.dev)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/BokiChan)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shirotofu)
   
 </div>
 
@@ -156,12 +125,8 @@ I'm always interested in connecting with fellow developers, potential employers,
 
 ## 💡 What I Can Do
 
-- **Full-Stack Development:** Build complete web applications from frontend to backend
-- **API Development:** Design and implement RESTful and GraphQL APIs
 - **Database Design:** Create efficient and scalable database schemas
-- **Cloud Deployment:** Deploy and manage applications on cloud platforms
 - **DevOps:** Set up CI/CD pipelines and containerized environments
-- **Problem Solving:** Tackle complex algorithmic challenges and optimize performance
 - **Code Review:** Provide constructive feedback and maintain code quality
 - **Team Collaboration:** Work effectively in agile teams and remote environments
 
@@ -187,7 +152,7 @@ const BokiChan = {
   currentFocus: "Building impactful software solutions",
   availableFor: ["Full-time roles", "Contract work", "Collaboration"],
   hobbies: ["Coding", "Learning new technologies", "Open source"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
+  funFact: "I debug with System.println"" and I'm not ashamed! 😄"
 };
 ```
 
