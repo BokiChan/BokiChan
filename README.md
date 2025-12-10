@@ -16,12 +16,6 @@
 
 I'm a passionate software developer who loves building innovative solutions and learning new technologies. This GitHub profile serves as my portfolio and CV, showcasing my skills, projects, and journey in software development.
 
-- 🔭 **Currently Working On:** Building scalable applications and contributing to open source
-- 🌱 **Currently Learning:** Advanced software architecture, cloud technologies, and best practices
-- 💼 **Open To:** Full-time opportunities, freelance projects, and interesting collaborations
-- 🎯 **Goals:** Create impactful software that solves real-world problems
-- ⚡ **Fun Fact:** I believe great code is a combination of art and science
-
 ---
 
 ## 🛠️ Technical Skills
