@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+BokiChan;Software+Developer+%7C+Tech+Enthusiast;Welcome+to+my+Digital+Portfolio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+BokiChan;Software+Developer+%7C+Tech+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,41 +35,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Other Technologies
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BokiChan)](https://github.com/anuraghazra/github-readme-stats)" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BokiChan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BokiChan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BokiChan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=BokiChan&theme=juicyfresh)](https://github.com/BokiChan/github-profile-trophy)" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 Professional Experience
-
-### Software Developer
-**Building innovative solutions** | *Present*
-
-- building contra game with Java
-- Motor Sport webside
 
 ---
 
